@@ -1638,10 +1638,8 @@ async def callback_data(bot, update: CallbackQuery):
 
     if query_data == "start":
         buttons = [[
-            InlineKeyboardButton('Boss 😎', url='https://t.me/amogh_06'),
-            InlineKeyboardButton('StreamingFreaks 😈', url='https://t.me/StreamingFreaks'),
-        
-            InlineKeyboardButton('Contact 🎀', callback_data="help")
+            InlineKeyboardButton('ᴍʏ ʙᴏss 😎', url='https://t.me/amogh_06'),
+            InlineKeyboardButton('Jᴏɪɴ Gʀᴏᴜᴘ 😈', url='https://t.me/StreamingFreaks')
         ]]
     
         reply_markup = InlineKeyboardMarkup(buttons)
