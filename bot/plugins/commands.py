@@ -30,7 +30,6 @@ async def start(bot, update):
                 parse_mode="html",
                 reply_to_message_id=update.message_id,
                 reply_markup=InlineKeyboardMarkup(
-                   reply_markup=InlineKeyboardMarkup(
                     [[InlineKeyboardButton('🍁 Join Channel', url="https://telegram.me/StreamingFreaks")],[
                         InlineKeyboardButton('❣ Our Group ', url="https://telegram.me/movies_at_streamingfreaks")
                      ]]
