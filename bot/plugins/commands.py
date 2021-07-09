@@ -35,7 +35,6 @@ async def start(bot, update):
                      ]]
                 )
                 )
-            )
 
         elif file_type == "video":
         
