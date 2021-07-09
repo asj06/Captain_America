@@ -1,10 +1,14 @@
 class Translation(object):
     
-    START_TEXT = """ <b>Hey {}</b>
+    START_TEXT = """ Hᴇʏ 😎 {}
     
-<i>Hello Sir I'm Captain🍃 ... </i>
-<b>I'll Gives For Lot Of Movies So Join Our Group</b>
-<i>@amogh_06</i>"""
+    👑 SᴛʀᴇᴀᴍɪɴɢFʀᴇᴀᴋs 👑
+
+<b>Hᴇʟʟᴏ Sɪʀ I'ᴍ ᴀɴ AᴜᴛᴏFɪʟᴛᴇʀBᴏᴛ </b>
+<b>I ᴄᴀɴ Pʀᴏᴠɪᴅᴇ ᴀɴʏ Mᴏᴠɪᴇ ᴏʀ Sᴇʀɪᴇs ʏᴏᴜ ᴡᴀɴᴛ..</b>
+<b>Jᴜsᴛ Jᴏɪɴ Mʏ Gʀᴏᴜᴘ ᴀɴᴅ Tʏᴘᴇ Mᴏᴠɪᴇ Nᴀᴍᴇ 😉</b>
+
+"""
     
     
     HELP_TEXT = """
