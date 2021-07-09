@@ -75,8 +75,8 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('ᴍʏ ʙᴏss🙂', url='https://telegram.me/amogh_06'),
-        InlineKeyboardButton('Jᴏɪɴ Gʀᴏᴜᴘ 🎃', url='https://telegram.me/StreamingFreaks')
+        InlineKeyboardButton('Mʏ Bᴏss🙂', url='https://telegram.me/amogh_06'),
+        InlineKeyboardButton('Jᴏɪɴ Gʀᴏᴜᴘ 🎃', url='https://telegram.me/movies_at-streamingfreaks')
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
