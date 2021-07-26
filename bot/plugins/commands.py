@@ -31,7 +31,7 @@ async def start(bot, update):
                 reply_to_message_id=update.message_id,
                 reply_markup=InlineKeyboardMarkup(
                     [[InlineKeyboardButton('🌿 Jᴏɪɴ Cʜᴀɴɴᴇʟ 🌿', url="https://telegram.me/StreamingFreaks")],[
-                        InlineKeyboardButton('🔥 Oᴜʀ Gʀᴏᴜᴘ 🔥', url="https://telegram.me/movies_at_streamingfreaks")
+                        InlineKeyboardButton('🔥 Oᴜʀ Gʀᴏᴜᴘ 🔥', url="https://telegram.me/SF_Request")
                      ]]
                 )
                 )
@@ -45,7 +45,7 @@ async def start(bot, update):
                 parse_mode="html",
                 reply_markup=InlineKeyboardMarkup(
                     [[InlineKeyboardButton('🌿 Jᴏɪɴ Cʜᴀɴɴᴇʟ 🌿', url="https://telegram.me/StreamingFreaks")],[
-                        InlineKeyboardButton('⚜ Oᴜʀ Gʀᴏᴜᴘ ⚜', url="https://telegram.me/movies_at_streamingfreaks")
+                        InlineKeyboardButton('⚜ Oᴜʀ Gʀᴏᴜᴘ ⚜', url="https://telegram.me/SF_Request")
                      ]]
                 )
             )
@@ -62,7 +62,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '🌳 Father', url="https://Telegram.me/avishkarpatil"
+                                    '🌳 Father', url="https://Telegram.me/amogh_06"
                                 )
                         ]
                     ]
@@ -76,7 +76,7 @@ async def start(bot, update):
 
     buttons = [[
         InlineKeyboardButton('Mʏ Bᴏss🙂', url='https://telegram.me/amogh_06'),
-        InlineKeyboardButton('Jᴏɪɴ Gʀᴏᴜᴘ 🎃', url='https://telegram.me/movies_at_streamingfreaks')
+        InlineKeyboardButton('Jᴏɪɴ Gʀᴏᴜᴘ 🎃', url='https://telegram.me/SF_Request')
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
